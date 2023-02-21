@@ -1,0 +1,9 @@
+for first of line : "Home"
+for last of line : "end"
+select specific line of first: ctrl + alt + shift +up arrow/down
+select specific for line last: ctrl + alt + shift + end
+select word: ctrl + d
+select same word : ctrl + d (multiple)
+switch tab inside the vs code: ctrl + tab
+
+full screen/ half screen : f11
